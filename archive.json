@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-05-21T04:00:32.053352+00:00",
+  "timestamp": "2026-05-24T03:53:56.358756+00:00",
   "repo": "hyperare80-pixel/fluffy-carnival",
   "labels": [
     {
@@ -49,6 +49,23 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOR2MLxM8AAAABDH0BGw",
+      "title": "https://github.com/hyperare80-pixel/fluffy-carnival/issues/new/choose",
+      "url": "https://github.com/hyperare80-pixel/fluffy-carnival/issues/1",
+      "state": "CLOSED",
+      "author": "hyperare80-pixel",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-05-22T17:31:38Z",
+      "updatedAt": "2026-05-22T17:32:23Z",
+      "closedAt": "2026-05-22T17:32:23Z",
+      "comments": []
+    }
+  ],
   "pulls": []
 }
